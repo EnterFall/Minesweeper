@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.28307.136
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_Minesweeper V1.0", "Project_Minesweeper V1.0\Project_Minesweeper V1.0.csproj", "{8B308A0D-829E-4CF3-9F5C-B523CA1EA4C0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Project_Minesweeper V1.0\Minesweeper.csproj", "{8B308A0D-829E-4CF3-9F5C-B523CA1EA4C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
